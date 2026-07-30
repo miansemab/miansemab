@@ -1,6 +1,6 @@
 <div align="left">
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ali Sulman
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm miansemab
 
 #### Full-Stack AI Developer | Next.js + FastAPI + Python ML | Building AI-powered web apps
 

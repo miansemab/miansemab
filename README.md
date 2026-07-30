@@ -9,7 +9,7 @@ Passionate Python developer and Machine Learning enthusiast from Pakistan. I bui
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=alisulmanpro&label=Profile%20views&color=201F1D&style=for-the-badge&logo=star" alt="alisulmanpro" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=miansemab&label=Profile%20views&color=201F1D&style=for-the-badge&logo=star" alt="miansemab" style="padding-right:20px;" />
 </p>
 
 </div>
@@ -83,22 +83,22 @@ Handled document processing tasks with accuracy and attention to detail, support
 <div align="center">
 
   <!-- Row 1 -->
-  <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
+  <a href="https://gist.github.com/miansemab/273f14d3ec063963755b7a6e33e97f91">
     <img src="https://github.com/user-attachments/assets/c32e5cde-1b42-4baa-863d-283649e18c9f" width="49%" />
   </a>
   
-  <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
+  <a href="https://gist.github.com/miansemab/7dd76433e34987b850cd005484b928eb">
     <img src="https://github.com/user-attachments/assets/6bb1f790-5a2d-4de0-8b33-da4fefdf6b8c" width="49%" />
   </a>
 
   <br/>
 
   <!-- Row 2 -->
-  <a href="https://gist.github.com/alisulmanpro/273f14d3ec063963755b7a6e33e97f91">
+  <a href="https://gist.github.com/miansemab/273f14d3ec063963755b7a6e33e97f91">
     <img src="https://github.com/user-attachments/assets/736e27bb-e7d4-4268-ad17-191407a668e5" width="49%" />
   </a>
   
-  <a href="https://gist.github.com/alisulmanpro/7dd76433e34987b850cd005484b928eb">
+  <a href="https://gist.github.com/miansemab/7dd76433e34987b850cd005484b928eb">
     <img src="https://github.com/user-attachments/assets/fad2ca29-ce30-4108-bde5-b307b093b272" width="49%" />
   </a>
 
@@ -127,18 +127,18 @@ application of programming concepts.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisu_1470/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sulman-077682374/) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alisulmanpro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alisulmanpro1470@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/alisulmanpro)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alisu_1470/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sulman-077682374/) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/miansemab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miansemab1470@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/miansemab)
 
 </div>
 
 <!--Github trophies-->
 <h2 align="center">Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
 <p align="center">
-  <a href="https://github.com/alisulmanpro">
+  <a href="https://github.com/miansemab">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=alisulmanpro&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=miansemab&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=miansemab&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=miansemab&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
 </p>
@@ -153,16 +153,16 @@ application of programming concepts.
     <td width="49%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/alisulmanpro">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=alisulmanpro&count_private=true&show_icons=true&theme=nightowl&bg_color=201F1D&title_color=EAE9E7&text_color=EAE9E7&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/miansemab">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=miansemab&count_private=true&show_icons=true&theme=nightowl&bg_color=201F1D&title_color=EAE9E7&text_color=EAE9E7&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="49%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/alisulmanpro">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=alisulmanpro&theme=nightowl&background=201F1D&fire=EAE9E7&ring=EAE9E7&sideNums=EAE9E7&sideLabels=EAE9E7&dates=EAE9E7&currStreakNum=EAE9E7" alt="Streak Stats" />
+        <a href="https://github.com/miansemab">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=miansemab&theme=nightowl&background=201F1D&fire=EAE9E7&ring=EAE9E7&sideNums=EAE9E7&sideLabels=EAE9E7&dates=EAE9E7&currStreakNum=EAE9E7" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -174,7 +174,7 @@ application of programming concepts.
 <!--Contribution Graph-->
 <h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisulmanpro&bg_color=201F1D&&color=EAE9E7&line=EAE9E7&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miansemab&bg_color=201F1D&&color=EAE9E7&line=EAE9E7&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 <h2 align="center">Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ</h2>

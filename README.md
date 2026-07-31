@@ -78,8 +78,7 @@ I build fast, modern, responsive, and scalable web applications with clean code 
 # 💻 Most Used Languages
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div
 # 🏆 GitHub Achievements

@@ -1,220 +1,232 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Mian Semab
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=MIAN%20SEMAB&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Builder&descAlignY=58&color=0:020617,40:0F766E,100:2563EB&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 
-### 🚀 Full Stack Web Developer | React • Django • Python
-
-<p>
-I build fast, modern, responsive, and scalable web applications with clean code and exceptional user experiences.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+Developer;Python+%7C+Django+Developer;Building+Modern+Web+Applications;Open+to+Freelance+%26+Remote+Work" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.ibb.co/mFC6CHCL/file-0000000015f8820b84c13346038cdcda.png" width="100%" alt="Mian Semab Banner"/>
-# 🛠 Tech Stack
-
-## 💻 Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-</p>
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge"/>
-
-</p>
-
-## 🗄 Database
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
-## 🧰 Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=miansemab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miansemab&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 Portfolio Website | Premium personal portfolio with modern UI & animations | HTML, CSS, JavaScript |
-| 🛒 E-Commerce Website | Full-stack shopping platform with authentication | Django, Python, MySQL |
-| 📋 Task Manager | Productivity web app with CRUD operations | React, Django |
-| 🎂 Birthday Web App | Interactive birthday surprise website | HTML, CSS, JavaScript |
-| 💼 Business Landing Page | Responsive landing page for businesses | HTML, Tailwind CSS |
-
----
-
-# 💼 Services
-
-✔ Full Stack Web Development
-
-✔ Frontend Development
-
-✔ Backend Development
-
-✔ Responsive Website Design
-
-✔ React Development
-
-✔ Django Development
-
-✔ REST API Integration
-
-✔ Website Optimization
-
-✔ Bug Fixing
-
-✔ Website Maintenance
-
----
-
-# 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mian%20Semab-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409)
-
-[![GitHub](https://img.shields.io/badge/GitHub-miansemab-black?style=for-the-badge&logo=github)](https://github.com/miansemab)
-
-[![Email](https://img.shields.io/badge/Email-miansemab8073%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:miansemab8073@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**"Code with Passion. Build with Purpose."**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
-
-</div>
-# 🎯 Current Focus
-
-- 🚀 Building modern Full Stack Web Applications
-- 📚 Mastering React & Django
-- 🌍 Working with International Clients
-- 💡 Exploring AI-powered Web Solutions
-- 🤝 Contributing to Open Source
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=miansemab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Success is built one commit at a time. Keep learning, keep building."**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:miansemab8073@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/miansemab">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Full+Stack+Web+Developer;Python+%26+Django+Developer;Exploring+Agentic+AI+%26+LLM+Systems;Machine+Learning+%7C+Intelligent+Applications;Turning+Ideas+Into+Real+Products" alt="Animated typing introduction" />
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://github.com/miansemab?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=miansemab&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## `$ whoami`
+
+```python
+class MianSemab:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.core_stack = ["Python", "Django", "React"]
+        self.interests = [
+            "Agentic AI",
+            "Machine Learning",
+            "LLM-powered Applications",
+            "SEO & Web Performance",
+        ]
+        self.current_focus = "Building intelligent web applications"
+        self.mindset = "Learn. Build. Improve. Repeat."
+
+    def introduce(self):
+        return "Turning ideas into useful digital products."
+
+
+me = MianSemab()
+print(me.introduce())
+```
+
+I'm a developer passionate about building modern web applications and exploring the next generation of intelligent software.
+
+My focus combines full-stack development with AI, machine learning, and agentic systems — bringing together useful interfaces, reliable backends, and smarter workflows.
+
+- **Build:** Responsive websites, backend systems, APIs, and full-stack applications.
+- **Explore:** AI-powered applications, LLM workflows, and agentic architectures.
+- **Learn:** Machine learning, intelligent automation, and practical AI engineering.
+- **Optimize:** Performance, usability, maintainability, and search visibility.
+
+> My goal: build software that doesn't just look good — it solves real problems.
+
+---
+
+## `// Tech Arsenal`
+
+<div align="center">
+
+### ⚡ Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
+
+### 🐍 Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Backend technologies" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-Integration-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-Software%20Design-6366F1?style=for-the-badge" />
+
+### 🧠 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=for-the-badge&logo=probot&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning%20%26%20Building-0891B2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-Research%20%26%20Prototyping-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Applications-Exploring-9333EA?style=for-the-badge" />
+
+### 🗄️ Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma&theme=dark" alt="Databases and developer tools" />
+
+</div>
+
+---
+
+## `// Currently Building & Exploring`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI
+
+- AI agents and tool-calling workflows
+- Multi-step task automation
+- LLM-powered applications
+- Structured outputs and evaluation
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Machine Learning
+
+- Python-based data processing
+- ML fundamentals and model evaluation
+- Data-driven predictions
+- Integrating intelligent features into applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Development
+
+- Django backend architecture
+- React interfaces and reusable components
+- REST API development
+- Database-driven applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Product Engineering
+
+- Responsive UI/UX
+- SEO and performance optimization
+- Git-based collaboration
+- Maintainable, user-focused solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## `// Featured Projects`
+
+<div align="center">
+
+<a href="https://github.com/miansemab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=AI_Interview_System&theme=tokyonight&hide_border=true" alt="AI Interview System project card" />
 </a>
 
 <a href="https://github.com/miansemab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=BabyLand&theme=tokyonight&hide_border=true" alt="BabyLand project card" />
 </a>
+
+</div>
+
+### 🚀 Project Highlights
+
+| Project | Overview | Technologies |
+|---|---|---|
+| **AI Interview Assessment System** | An adaptive interview and skills-assessment system with answer transcription and evaluation workflows | Python, Django, SQLite, AI |
+| **Baby Land** | A baby-products e-commerce application with shopping and account workflows | Django, Python, Tailwind CSS |
+| **Personal Portfolio** | A personal showcase for development projects and technical skills | HTML, CSS, JavaScript |
+
+<sub>Project cards above are linked to your GitHub profile as a fallback. Replace the repository names in their URLs with your exact public repository names to display the corresponding cards. Project descriptions summarize the intended functionality.</sub>
+
+---
+
+## `// GitHub Analytics`
+
+<div align="center">
+
+<a href="https://github.com/miansemab">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=miansemab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/miansemab">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miansemab&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miansemab&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 
 </div>
 
 ---
 
+## `// What I Can Help Build`
+
+- Full-stack web applications
+- Django websites and backend systems
+- React-based user interfaces
+- REST API integrations
+- Database-driven applications
+- Responsive and accessible web experiences
+- Website performance and SEO improvements
+- AI-powered application prototypes and intelligent workflows
+
+---
+
+## `// Beyond the Code`
+
+```text
+01  Learn continuously.
+02  Build practical projects.
+03  Solve problems with clean code.
+04  Explore emerging technologies.
+05  Turn experiments into useful products.
+```
+
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### 🤝 Let's Build Something Meaningful
 
-### If you like my work, consider following me and starring my repositories.
+I'm interested in connecting with developers, collaborating on projects, and exploring opportunities in web development and applied AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<a href="mailto:miansemab8073@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/miansemab">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+
+<br/><br/>
+
+**"Build with purpose. Learn without limits. Innovate with intention."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F766E,100:020617&height=140&section=footer" width="100%" />
 
 </div>
-

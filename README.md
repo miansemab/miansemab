@@ -1,160 +1,178 @@
- <div align="center">
+<div align="center">
 
-# MIAN SEMAB
+<!-- Cinematic animated Matrix hero: SVG animation runs directly in the browser/GitHub image renderer. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:052e16,100:00FF9C&text=MIAN%20SEMAB&fontSize=58&fontColor=E2FFF3&fontAlignY=38&desc=FULL%20STACK%20%7C%20AGENTIC%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16&animation=fadeIn" alt="Mian Semab — Full Stack Developer, Agentic AI and Machine Learning" />
 
-### FULL STACK DEVELOPER · AI & ML EXPLORER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=Building+Modern+Web+Applications;Exploring+Agentic+AI+Systems;Python+%7C+Django+%7C+React;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=650&color=00FF9C&center=true&vCenter=true&width=850&height=48&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+FULL+STACK+WEB+DEVELOPER;%3E+EXPLORING+AGENTIC+AI+SYSTEMS;%3E+MACHINE+LEARNING+%7C+PYTHON;%3E+BUILDING+INTELLIGENT+APPLICATIONS" alt="Animated Matrix-style developer typing intro" />
 
 <p>
-  <a href="https://github.com/miansemab?tab=repositories">PROJECTS</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409">LINKEDIN</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:miansemab8073@gmail.com">CONTACT</a>
+  <a href="https://github.com/miansemab?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-00FF9C?style=for-the-badge&logo=github&logoColor=00140B" alt="Explore projects"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:miansemab8073@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=miansemab&style=for-the-badge&color=008F5A&label=PROFILE+SCANS" alt="Profile views"/>
+
+</div>
+
+<!-- Animated code-rain GIF is generated and hosted by this repository's GitHub Actions workflow. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/miansemab/miansemab/output/matrix-rain.gif" width="100%" alt="Animated green Matrix code rain" />
 </div>
 
 ---
 
-## `01 / INTRODUCTION`
+## `01 // SYSTEM PROFILE`
 
-I'm Mian Semab, a Full Stack Web Developer interested in building practical digital products and exploring intelligent software systems.
-
-I work with Python, Django, JavaScript and React, while expanding my knowledge of Machine Learning, Agentic AI and AI-powered applications.
-
-```python
-developer = {
-    "name": "Mian Semab",
-    "role": "Full Stack Web Developer",
-    "backend": ["Python", "Django", "REST APIs"],
-    "frontend": ["JavaScript", "React", "Tailwind CSS"],
-    "databases": ["MySQL", "SQLite"],
-    "exploring": [
-        "Machine Learning",
-        "Agentic AI",
-        "LLM Applications",
-        "Technical SEO"
-    ],
-    "mindset": "Build. Learn. Iterate."
-}
+```text
+USER       : MIAN SEMAB
+ROLE       : FULL STACK WEB DEVELOPER
+CORE       : PYTHON · DJANGO · JAVASCRIPT · REACT
+EXPLORING  : AGENTIC AI · MACHINE LEARNING · LLM APPLICATIONS
+MISSION    : TURN IDEAS INTO USEFUL, INTELLIGENT SOFTWARE
+STATUS     : ALWAYS LEARNING / ALWAYS BUILDING
 ```
 
-## `02 / TECHNOLOGY STACK`
+I'm a developer focused on building modern web applications and exploring intelligent software. I enjoy connecting polished user experiences with dependable backend systems, and I’m expanding my skills in Machine Learning and Agentic AI through practical projects.
+
+- **Build:** full-stack applications, backend services and REST APIs.
+- **Explore:** LLM-powered features, AI agents and multi-step workflows.
+- **Improve:** usability, maintainability, performance and technical SEO.
+
+---
+
+## `02 // TECH STACK`
 
 <div align="center">
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="HTML CSS JavaScript React Tailwind Bootstrap"/>
 
-**BACKEND & DATABASES**
+**BACKEND & DATA**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite&theme=dark" alt="Backend and database stack" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite&theme=dark" alt="Python Django FastAPI MySQL SQLite"/>
 
-**TOOLS & WORKFLOW**
+**TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git GitHub VS Code Figma"/>
 
 </div>
 
-**AI / ML interests**
+<div align="center">
 
-`Machine Learning` · `LLM Applications` · `Agentic Workflows` · `AI Integration`
+<img src="https://img.shields.io/badge/AGENTIC_AI-EXPLORING-00FF9C?style=flat-square&labelColor=07130D" alt="Agentic AI exploring"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-LEARNING-00D084?style=flat-square&labelColor=07130D" alt="Machine Learning learning"/>
+<img src="https://img.shields.io/badge/LLM_APPS-EXPLORING-16A34A?style=flat-square&labelColor=07130D" alt="LLM applications exploring"/>
+<img src="https://img.shields.io/badge/TECHNICAL_SEO-PRACTICING-22C55E?style=flat-square&labelColor=07130D" alt="Technical SEO"/>
 
-## `03 / WHAT I'M WORKING TOWARDS`
+</div>
 
-<details>
-<summary><b>01 — Full Stack Engineering</b></summary>
+---
 
-- Building complete web applications.
-- Developing Django backends and REST APIs.
-- Creating responsive, user-focused interfaces.
-- Improving application architecture and performance.
+## `03 // ACTIVE DEVELOPMENT`
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>02 — Agentic AI</b></summary>
+### `> FULL STACK`
 
-- Understanding LLM-based applications.
-- Exploring AI agents, tools and multi-step workflows.
-- Learning structured outputs and evaluation.
-- Integrating useful AI capabilities into web applications.
+- Django-powered web applications
+- REST API design and integration
+- Responsive frontend experiences
+- Database-backed features
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>03 — Machine Learning</b></summary>
+### `> AGENTIC AI`
 
-- Strengthening Python and data-processing skills.
-- Learning model training and evaluation fundamentals.
-- Exploring practical prediction and classification use cases.
+- Understanding agent architectures
+- Tool-use and multi-step workflows
+- Structured outputs and evaluation
+- AI features integrated into web apps
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>04 — SEO & Web Performance</b></summary>
+### `> MACHINE LEARNING`
 
-- Technical SEO fundamentals.
-- Search-friendly website structures.
-- Performance, accessibility and responsive design.
+- Python and data-processing foundations
+- Model training and evaluation concepts
+- Practical prediction/classification use cases
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-## `04 / SELECTED PROJECTS`
+### `> PRODUCT ENGINEERING`
+
+- Maintainable code and Git workflows
+- Website performance and technical SEO
+- Iterative testing and improvements
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // PROJECT DATABASE`
 
 <div align="center">
 
 <a href="https://github.com/miansemab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=AI_Interview_System&theme=tokyonight&hide_border=true" alt="AI Interview System project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=AI_Interview_System&theme=chartreuse-dark&hide_border=true" alt="AI Interview Assessment System repository card"/>
 </a>
-
 <a href="https://github.com/miansemab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=BabyLand&theme=tokyonight&hide_border=true" alt="BabyLand project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=miansemab&repo=BabyLand&theme=chartreuse-dark&hide_border=true" alt="Baby Land repository card"/>
 </a>
 
 </div>
 
-| Project | Focus | Stack |
+| Project | Purpose | Stack |
 |---|---|---|
-| AI Interview Assessment System | Adaptive interviews and skills assessment | Python, Django, SQLite |
-| Baby Land | E-commerce and shopping workflows | Django, Python, Tailwind CSS |
-| Personal Portfolio | Personal brand and project showcase | HTML, CSS, JavaScript |
+| **AI Interview Assessment System** | Adaptive interview flow, answer transcription and skills assessment workflows | Python, Django, SQLite |
+| **Baby Land** | Baby-products e-commerce experience with shopping and account workflows | Django, Python, Tailwind CSS |
+| **Personal Portfolio** | Personal brand, skills and project showcase | HTML, CSS, JavaScript |
 
-*Update the pinned-card repository names and project descriptions to match your actual GitHub repositories.*
+> **Note:** Update the repository names in the project-card URLs if your actual public repositories use different names. Only describe features that are implemented in the current version.
 
-## `05 / GITHUB ACTIVITY`
+---
+
+## `05 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=miansemab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=miansemab&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miansemab&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6" alt="Top languages"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miansemab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miansemab&theme=green&hide_border=true&area=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="GitHub contribution graph"/>
 
 </div>
 
-## `06 / CONNECT`
+---
+
+## `06 // CONNECT TO THE DEVELOPER`
 
 <div align="center">
 
-<a href="https://github.com/miansemab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:miansemab8073@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://github.com/miansemab"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/muhammad-semab-ilyas-9b6017409"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:miansemab8073@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-166534?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-*Build with purpose. Learn without limits.*
+```text
+[ LEARN ] ---> [ BUILD ] ---> [ TEST ] ---> [ IMPROVE ] ---> [ REPEAT ]
+```
+
+**BUILD WITH PURPOSE. THINK IN SYSTEMS. KEEP EXPLORING.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00FF9C,55:052e16,100:020617" width="100%" alt="Green animated-style footer"/>
 
 </div>

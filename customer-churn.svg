@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">CUSTOMER CHURN PREDICTION</title>
+<desc id="desc">Data preparation • Model training • Evaluation</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#02000D"/>
+    <stop offset="1" stop-color="#07203F"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#A65E46"/>
+    <stop offset=".5" stop-color="#D9AA90"/>
+    <stop offset="1" stop-color="#A65E46"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#D9AA90" stop-opacity=".30"/>
+    <stop offset="1" stop-color="#D9AA90" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="clip"><rect x="2" y="2" width="956" height="256" rx="24"/></clipPath>
+</defs>
+<style>
+  .edge { stroke-dasharray: 420 1800; animation: trace 7s linear infinite; }
+  .orb { animation: drift 6s ease-in-out infinite alternate; transform-origin: 820px 100px; }
+  .reveal { opacity: 0; animation: rise .9s ease-out forwards; }
+  .r2 { animation-delay: .18s; } .r3 { animation-delay: .34s; }
+  @keyframes trace { to { stroke-dashoffset: -2220; } }
+  @keyframes drift { from { transform: translate(0,0) scale(.94); } to { transform: translate(-18px,12px) scale(1.08); } }
+  @keyframes rise { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:translateY(0); } }
+  @media (prefers-reduced-motion: reduce) {
+    .edge,.orb,.reveal { animation:none; opacity:1; }
+  }
+</style>
+<g clip-path="url(#clip)">
+  <rect width="960" height="260" fill="url(#bg)"/>
+  <circle class="orb" cx="820" cy="95" r="190" fill="url(#glow)"/>
+  <circle cx="820" cy="95" r="122" fill="none" stroke="#D9AA90" stroke-opacity=".12" stroke-width="1"/>
+  <circle cx="820" cy="95" r="88" fill="none" stroke="#D9AA90" stroke-opacity=".10" stroke-width="1" stroke-dasharray="4 10"/>
+  <path d="M0 205 C180 165 280 250 470 205 S760 155 960 205" fill="none" stroke="#EBDED4" stroke-opacity=".07" stroke-width="1"/>
+  <rect x="2" y="2" width="956" height="256" rx="24" fill="none" stroke="#EBDED4" stroke-opacity=".16" stroke-width="2"/>
+  <rect class="edge" x="2" y="2" width="956" height="256" rx="24" fill="none" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+  <text x="54" y="54" fill="#D9AA90" font-family="monospace" font-size="16" letter-spacing="4">01  /  SELECTED WORK</text>
+  <text class="reveal" x="54" y="116" fill="#EBDED4" font-family="Georgia,serif" font-size="34" font-weight="600">CUSTOMER CHURN PREDICTION</text>
+  <text class="reveal r2" x="56" y="157" fill="#D9AA90" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">MACHINE LEARNING  /  PYTHON</text>
+  <text class="reveal r3" x="56" y="204" fill="#EBDED4" fill-opacity=".82" font-family="Arial,sans-serif" font-size="18">Data preparation • Model training • Evaluation</text>
+  <g transform="translate(822 174)">
+    <circle r="31" fill="#D9AA90" fill-opacity=".12" stroke="#D9AA90" stroke-opacity=".55"/>
+    <path d="M-12 0 H12 M4 -8 L12 0 L4 8" fill="none" stroke="#EBDED4" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</g>
+</svg>
